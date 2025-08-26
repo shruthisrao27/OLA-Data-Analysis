@@ -504,11 +504,8 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
 - **File Name**: `Ola DA Project.pbix` [Download File](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/Ola%20DA%20Project.pbix)
 - **Size**: `3.96 MB`
 
-- **File Name**: `Bookings.csv` [Download File](https://github.com/shruthisrao27/OLA-Data-Analyst/blob/main/Bookings.csv)
+- **File Name**: `Bookings.csv` [Download File](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/Bookings.csv)
 - **Size**: `15.5 MB`
 
-</details>
-
----
 
 
